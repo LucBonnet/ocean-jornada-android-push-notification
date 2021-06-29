@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">oceanAndroidPushNotification</string>
+    <string name="msg_subscribed">Inscrito</string>
+    <string name="msg_subscribe_failed">Falha ao se inscrever</string>
 </resources>
